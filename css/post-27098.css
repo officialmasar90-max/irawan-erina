@@ -1,0 +1,4451 @@
+.elementor-27098 .elementor-element.elementor-element-1ec98e1e {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-end;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2d3a2870 {
+    --display: flex;
+    --min-height: calc(var(--vh, 1vh) * 100);
+    --justify-content: flex-end;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --overlay-opacity: 0.93;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2d3a2870:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-2d3a2870 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+    background-image: url("https://raw.githubusercontent.com/officialmasar90-max/irawan-erina/main/gambar/couple1.jpeg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2d3a2870::before, .elementor-27098 .elementor-element.elementor-element-2d3a2870 > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-2d3a2870 > .e-con-inner > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-2d3a2870 > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-2d3a2870 > .e-con-inner > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-2d3a2870 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: transparent;
+    --background-overlay: '';
+    background-image: linear-gradient(180deg, #00000000 0%, #4C5760 74%);
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    font-family: var( --e-global-typography-primary-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight );
+    color: var( --e-global-color-primary );
+}
+
+.elementor-27098 .elementor-element.elementor-element-6f917b81 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6f917b81 {
+    z-index: 5;
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6f917b81 .elementor-heading-title {
+    font-family: "trajan", Sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: 1.2px;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1b5557d4 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1b5557d4 .elementor-heading-title {
+    font-family: "alcantera-serif", Sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-396b699f {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-396b699f .elementor-heading-title {
+    font-family: "Abhaya Libre", Sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: none;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3993860b {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3993860b .elementor-heading-title {
+    font-family: "Questrial", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.elementor-widget-button .elementor-button {
+    background-color: var( --e-global-color-accent );
+    font-family: var( --e-global-typography-accent-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight );
+}
+
+.elementor-27098 .elementor-element.elementor-element-407b000e .elementor-button {
+    background-color: transparent;
+    font-family: "Cormorant Garamond", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(210deg, #9CACB9 0%, #5D6973 100%);
+    border-radius: 20px 20px 20px 20px;
+    padding: 14px 30px 14px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-407b000e .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-407b000e .elementor-button:focus {
+    background-color: #865D3D;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-407b000e .elementor-button:hover svg, .elementor-27098 .elementor-element.elementor-element-407b000e .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-ef2e49f {
+    --spacer-size: 130px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4ce2d7e7 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4ce2d7e7.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-27098 .elementor-element.elementor-element-498238fc {
+    --display: flex;
+    --min-height: 100vh;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: flex-end;
+    --align-items: flex-end;
+    --gap: 30px 30px;
+    --row-gap: 30px;
+    --column-gap: 30px;
+    --overlay-opacity: 0.73;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 50px;
+    --padding-right: 50px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-498238fc:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-498238fc > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VINTAGE-08-II-V2.1_PII_DESKTOP-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-498238fc::before, .elementor-27098 .elementor-element.elementor-element-498238fc > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-498238fc > .e-con-inner > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-498238fc > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-498238fc > .e-con-inner > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-498238fc > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: transparent;
+    --background-overlay: '';
+    background-image: linear-gradient(338deg, #82898E 26%, #82898E54 70%);
+}
+
+.elementor-27098 .elementor-element.elementor-element-6b65c00d {
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6b65c00d .elementor-heading-title {
+    font-family: "Libre Caslon Text", Sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-380f41e3 > .elementor-widget-container {
+    margin: 30px 0px 10px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-380f41e3 {
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-380f41e3 .elementor-heading-title {
+    font-family: "aston-script", Sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 35px;
+    text-shadow: 1px 3px 1px rgba(0, 0, 0, 0.17);
+    color: #E8D9AE;
+}
+
+.elementor-widget-text-editor {
+    font-family: var( --e-global-typography-text-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight );
+    color: var( --e-global-color-text );
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var( --e-global-color-primary );
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var( --e-global-color-primary );
+    border-color: var( --e-global-color-primary );
+}
+
+.elementor-27098 .elementor-element.elementor-element-4675d66d > .elementor-widget-container {
+    padding: 0px 0px 0px 0300px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4675d66d {
+    text-align: right;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-52cc5eca > .elementor-widget-container {
+    padding: 0px 0px 0px 0300px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-52cc5eca {
+    text-align: right;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31fa8cd3 {
+    --spacer-size: 50px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5e85dd36 {
+    --display: flex;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    --overflow: hidden;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-38007537 {
+    --display: flex;
+    --min-height: 100vh;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+}
+
+.elementor-27098 .elementor-element.elementor-element-38007537:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-38007537 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #EAE0D2;
+    background: url("https://inv.wekita.id/wp-content/uploads/2025/11/VINTAGE08_V3.1_FALLBACK_PII-1.jpg") 50% 50%;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-21d30f8b {
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    --border-radius: 300px 300px 300px 300px;
+    --z-index: 3;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2eddd54d > .elementor-widget-container {
+    margin: 38px 0px 10px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2eddd54d {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2eddd54d .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #404040;
+}
+
+.elementor-27098 .elementor-element.elementor-element-cbc9806 > .elementor-widget-container {
+    padding: 15px 0px 15px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-cbc9806 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-cbc9806 .elementor-heading-title {
+    font-family: "aston-script", Sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 85px;
+    color: #404040;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1bf5f061 > .elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1bf5f061 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1bf5f061 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #404040;
+}
+
+.elementor-27098 .elementor-element.elementor-element-65027be4 .elementor-button {
+    background-color: transparent;
+    font-family: "Cormorant Garamond", Sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 1.4px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(266deg, #465058 0%, #4F5D68 100%);
+    border-radius: 20px 20px 20px 20px;
+    padding: 5px 20px 5px 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-65027be4 .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-65027be4 .elementor-button:focus {
+    background-color: transparent;
+    color: #FFFFFF;
+    background-image: linear-gradient(210deg, #2A211A 0%, #95755A 100%);
+}
+
+.elementor-27098 .elementor-element.elementor-element-65027be4 > .elementor-widget-container {
+    padding: 10px 0px 10px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-65027be4 .elementor-button:hover svg, .elementor-27098 .elementor-element.elementor-element-65027be4 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-645e4468 {
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --overflow: hidden;
+    --padding-top: 30px;
+    --padding-bottom: 42px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-645e4468:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-645e4468 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #4C565F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1a5d6d1d {
+    --spacer-size: 5px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31e00b07 {
+    --display: flex;
+    --justify-content: center;
+    --gap: 25px 25px;
+    --row-gap: 25px;
+    --column-gap: 25px;
+    --border-radius: 250px 250px 25px 25px;
+    box-shadow: 1px 1px 13px 0px rgba(0, 0, 0, 0.08);
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31e00b07:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-31e00b07 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #5D6973;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1468aa24 {
+    --spacer-size: 75px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-261a0d51 > .elementor-widget-container {
+    margin: -20px 0px -50px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-261a0d51 {
+    text-align: center;
+    font-family: "creattion", Sans-serif;
+    font-size: 61px;
+    font-weight: 500;
+    font-style: italic;
+    color: #DACBA2;
+}
+
+.elementor-27098 .elementor-element.elementor-element-651d0c6 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-651d0c6 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-651d0c6 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 29px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-58300810 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-58300810 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-58300810 .elementor-heading-title {
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-443665b4 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-443665b4 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-443665b4 .elementor-heading-title {
+    font-family: "Lora", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #DACBA2;
+}
+
+.elementor-27098 .elementor-element.elementor-element-52401d6f {
+    --spacer-size: 15px;
+}
+
+.elementor-widget-image .widget-image-caption {
+    color: var( --e-global-color-text );
+    font-family: var( --e-global-typography-text-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight );
+}
+
+.elementor-27098 .elementor-element.elementor-element-1e60cea6 img {
+    border-radius: 0px 0px 15px 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3c64bb1d {
+    --spacer-size: 5px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6df9c990 {
+    --display: flex;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --overflow: hidden;
+    --overlay-opacity: 1;
+    --padding-top: 30px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6df9c990:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-6df9c990 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6df9c990::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .e-con-inner > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .e-con-inner > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: #FFFFFF;
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VIN-08-PII-2-1-scaled-1-1.jpg");
+    --background-overlay: '';
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1bc2a7cf {
+    --spacer-size: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6ba7a5cf > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6ba7a5cf {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6ba7a5cf .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3d592eb4 > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3d592eb4 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3d592eb4 .elementor-heading-title {
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-52248a50 {
+    --spacer-size: 12px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-42cb4202 img {
+    border-style: solid;
+    border-width: 2.5px 2.5px 2.5px 2.5px;
+    border-color: #FFFFFF;
+    border-radius: 500px 500px 500px 500px;
+    box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.5);
+}
+
+.elementor-27098 .elementor-element.elementor-element-2dd0c0de > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2dd0c0de {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2dd0c0de .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 29px;
+    font-weight: 400;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-24b50bbb {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-24b50bbb > .elementor-widget-container {
+    padding: 0px 20px 0px 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2f0263e6 .elementor-repeater-item-3a06534.elementor-social-icon {
+    background-color: #4D5A64;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2f0263e6 {
+    --grid-template-columns: repeat(0, auto);
+    width: 100%;
+    max-width: 100%;
+    --icon-size: 15px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2f0263e6 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2f0263e6 > .elementor-widget-container {
+    padding: 0px 20px 0px 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2f0263e6 .elementor-icon {
+    border-radius: 14px 14px 14px 14px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4d6a5921 > .elementor-widget-container {
+    padding: 20px 0px 20px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4d6a5921 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4d6a5921 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 18px;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-7b6f1a45 img {
+    border-style: solid;
+    border-width: 2.5px 2.5px 2.5px 2.5px;
+    border-color: #FFFFFF;
+    border-radius: 500px 500px 500px 500px;
+    box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.5);
+}
+
+.elementor-27098 .elementor-element.elementor-element-77f48c99 > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-77f48c99 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-77f48c99 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 29px;
+    font-weight: 400;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-75ccd915 {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-75ccd915 > .elementor-widget-container {
+    padding: 0px 20px 0px 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4446380e .elementor-repeater-item-3a06534.elementor-social-icon {
+    background-color: #4D5A64;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4446380e {
+    --grid-template-columns: repeat(0, auto);
+    width: 100%;
+    max-width: 100%;
+    --icon-size: 15px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4446380e .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4446380e > .elementor-widget-container {
+    padding: 0px 20px 0px 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4446380e .elementor-icon {
+    border-radius: 14px 14px 14px 14px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5e5204fc {
+    --spacer-size: 101px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3c58b15d {
+    --display: flex;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --gap: 25px 25px;
+    --row-gap: 25px;
+    --column-gap: 25px;
+    --overflow: hidden;
+    border-style: none;
+    --border-style: none;
+    --border-radius: 0px 0px 0px 0px;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 30px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3c58b15d:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-3c58b15d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VINTAGE08_V2_DARKBG2_PII-1-1.jpg");
+    background-position: bottom center;
+    background-size: contain;
+}
+
+.elementor-27098 .elementor-element.elementor-element-39cb2225 {
+    --spacer-size: 48px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-37808c9e > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-37808c9e {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-37808c9e .elementor-heading-title {
+    font-family: "creattion", Sans-serif;
+    font-size: 54px;
+    font-weight: 400;
+    color: #DDC38A;
+}
+
+.elementor-27098 .elementor-element.elementor-element-756961ee {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-756961ee > .elementor-widget-container {
+    padding: 0px 20px 0px 20px;
+}
+
+.elementor-widget-weddingpress-countdown .wpkoi-elements-countdown-digits {
+    font-family: var( --e-global-typography-accent-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight );
+}
+
+.elementor-widget-weddingpress-countdown .wpkoi-elements-countdown-label {
+    font-family: var( --e-global-typography-accent-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight );
+}
+
+.elementor-widget-weddingpress-countdown .wpkoi-elements-countdown-digits::after {
+    font-family: var( --e-global-typography-accent-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight );
+}
+
+.elementor-27098 .elementor-element.elementor-element-31ecce25 > .elementor-widget-container {
+    margin: 0px 50px 20px 50px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31ecce25 .wpkoi-elements-countdown-item > div {
+    margin-right: 3px;
+    margin-left: 3px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 8px 8px 8px 8px;
+    background: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31ecce25 .wpkoi-elements-countdown-container {
+    margin-right: -3px;
+    margin-left: -3px;
+    margin-bottom: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31ecce25 .wpkoi-elements-countdown-digits {
+    color: #4C5760;
+    font-family: "Lora", Sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31ecce25 .wpkoi-elements-countdown-label {
+    color: #4C5760;
+    font-family: "Lora", Sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-style: italic;
+    line-height: 21px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3883fcaa {
+    --display: flex;
+    --justify-content: center;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    --border-top-width: 5px;
+    --border-right-width: 5px;
+    --border-bottom-width: 5px;
+    --border-left-width: 5px;
+    border-color: #CEB172;
+    --border-color: #CEB172;
+    --border-radius: 500px 500px 500px 500px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    --margin-top: 20px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3883fcaa:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-3883fcaa > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VINTAGE-08-II-PII_EVNT2-1.jpg");
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-7b8ddf42 {
+    --spacer-size: 70px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-476218b0 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-476218b0 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1aced3f2 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1aced3f2 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-796bbacc > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-796bbacc {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #394446;
+}
+
+.elementor-widget-divider {
+    --divider-color: var( --e-global-color-secondary );
+}
+
+.elementor-widget-divider .elementor-divider__text {
+    color: var( --e-global-color-secondary );
+    font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-secondary-font-weight );
+}
+
+.elementor-widget-divider.elementor-view-stacked .elementor-icon {
+    background-color: var( --e-global-color-secondary );
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon {
+    color: var( --e-global-color-secondary );
+    border-color: var( --e-global-color-secondary );
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg {
+    fill: var( --e-global-color-secondary );
+}
+
+.elementor-27098 .elementor-element.elementor-element-2733c1b0 {
+    --divider-border-style: solid;
+    --divider-color: #394446;
+    --divider-border-width: 1px;
+    --divider-icon-size: 28px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2733c1b0 .elementor-divider-separator {
+    width: 62%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2733c1b0 .elementor-divider {
+    text-align: center;
+    padding-block-start:2px;padding-block-end:2px;}
+
+.elementor-27098 .elementor-element.elementor-element-2733c1b0.elementor-view-stacked .elementor-icon {
+    background-color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2733c1b0.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-2733c1b0.elementor-view-default .elementor-icon {
+    color: #394446;
+    border-color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2733c1b0.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-2733c1b0.elementor-view-default .elementor-icon svg {
+    fill: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2d510a2a > .elementor-widget-container {
+    padding: 0px 30px 0px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2d510a2a {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2482fe3e .elementor-button {
+    background-color: transparent;
+    font-family: "Lora", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: normal;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(181deg, #D5B385 0%, #C7A57A 100%);
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2482fe3e .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-2482fe3e .elementor-button:focus {
+    background-color: #D5AF6F;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2482fe3e .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2482fe3e .elementor-button:hover svg, .elementor-27098 .elementor-element.elementor-element-2482fe3e .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-589e6ed6 {
+    --spacer-size: 133px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3a9129f {
+    --display: flex;
+    --justify-content: center;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    --border-top-width: 5px;
+    --border-right-width: 5px;
+    --border-bottom-width: 5px;
+    --border-left-width: 5px;
+    border-color: #CEB172;
+    --border-color: #CEB172;
+    --border-radius: 500px 500px 500px 500px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    --margin-top: 20px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3a9129f:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-3a9129f > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VINTAGE-08-II-PII_EVNT2v2-1-1.jpg");
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-272359f7 {
+    --spacer-size: 70px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2c0ca281 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2c0ca281 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-53ec10e4 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-53ec10e4 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-c5a830f > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-c5a830f {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-34f81650 {
+    --divider-border-style: solid;
+    --divider-color: #394446;
+    --divider-border-width: 1px;
+    --divider-icon-size: 28px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-34f81650 .elementor-divider-separator {
+    width: 62%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-27098 .elementor-element.elementor-element-34f81650 .elementor-divider {
+    text-align: center;
+    padding-block-start:2px;padding-block-end:2px;}
+
+.elementor-27098 .elementor-element.elementor-element-34f81650.elementor-view-stacked .elementor-icon {
+    background-color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-34f81650.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-34f81650.elementor-view-default .elementor-icon {
+    color: #394446;
+    border-color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-34f81650.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-34f81650.elementor-view-default .elementor-icon svg {
+    fill: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-7ccaa985 > .elementor-widget-container {
+    padding: 0px 30px 0px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-7ccaa985 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-54a86d8e .elementor-button {
+    background-color: transparent;
+    font-family: "Lora", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: normal;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(181deg, #D5B385 0%, #C7A57A 100%);
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-54a86d8e .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-54a86d8e .elementor-button:focus {
+    background-color: #D5AF6F;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-54a86d8e .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-27098 .elementor-element.elementor-element-54a86d8e .elementor-button:hover svg, .elementor-27098 .elementor-element.elementor-element-54a86d8e .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-12a2ab9c {
+    --spacer-size: 133px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-8daf97c {
+    --display: flex;
+    --justify-content: center;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    --border-top-width: 5px;
+    --border-right-width: 5px;
+    --border-bottom-width: 5px;
+    --border-left-width: 5px;
+    border-color: #CEB172;
+    --border-color: #CEB172;
+    --border-radius: 500px 500px 500px 500px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    --margin-top: 20px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-8daf97c:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-8daf97c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VINTAGE-08-II-PII_EVNT2v2-1-1.jpg");
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6beae473 {
+    --spacer-size: 70px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-75bf06ab {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-75bf06ab .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-452429ce > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-452429ce {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-387b1da4 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-387b1da4 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-764de29f {
+    --divider-border-style: solid;
+    --divider-color: #394446;
+    --divider-border-width: 1px;
+    --divider-icon-size: 28px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-764de29f .elementor-divider-separator {
+    width: 62%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-27098 .elementor-element.elementor-element-764de29f .elementor-divider {
+    text-align: center;
+    padding-block-start:2px;padding-block-end:2px;}
+
+.elementor-27098 .elementor-element.elementor-element-764de29f.elementor-view-stacked .elementor-icon {
+    background-color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-764de29f.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-764de29f.elementor-view-default .elementor-icon {
+    color: #394446;
+    border-color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-764de29f.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-764de29f.elementor-view-default .elementor-icon svg {
+    fill: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4dea147b > .elementor-widget-container {
+    padding: 0px 30px 0px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4dea147b {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6c1c5c19 .elementor-button {
+    background-color: transparent;
+    font-family: "Lora", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: normal;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(181deg, #D5B385 0%, #C7A57A 100%);
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6c1c5c19 .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-6c1c5c19 .elementor-button:focus {
+    background-color: #D5AF6F;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6c1c5c19 .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6c1c5c19 .elementor-button:hover svg, .elementor-27098 .elementor-element.elementor-element-6c1c5c19 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5b67f36 {
+    --spacer-size: 133px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3e5ed85d {
+    --spacer-size: 25px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-592b829 {
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --overlay-opacity: 1;
+    --padding-top: 30px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-592b829:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-592b829 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VIN-08-PII-2-scaled-1-1.jpg");
+    background-position: top center;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-592b829::before, .elementor-27098 .elementor-element.elementor-element-592b829 > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-592b829 > .e-con-inner > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-592b829 > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-592b829 > .e-con-inner > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-592b829 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: transparent;
+    --background-overlay: '';
+    background-image: linear-gradient(360deg, #F3F4F8 12%, #02050F00 100%);
+}
+
+.elementor-27098 .elementor-element.elementor-element-4e12d2d6 {
+    --spacer-size: 10px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3f6ac6ec > .elementor-widget-container {
+    margin: -20px 0px -50px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3f6ac6ec {
+    text-align: center;
+    font-family: "creattion", Sans-serif;
+    font-size: 61px;
+    font-weight: 500;
+    font-style: italic;
+    color: #A9996C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-263089b6 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-263089b6 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-263089b6 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-217a1b87 {
+    --spacer-size: 5px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-249d6b52 img {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5813a601 {
+    --spacer-size: 5px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-28c893d8 {
+    --display: flex;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1844e0c9 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-dada720 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-a1b0954 {
+    --display: flex;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5dce35e9 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3dd80f26 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-63427195 {
+    --display: flex;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-beefbb8 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-668c5cbd {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-43f2721 {
+    --display: flex;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4197be9b {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-53592bab {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-21c2c9ea {
+    --display: flex;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-434aa0a6 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-73620500 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-29d9442b {
+    --spacer-size: 2px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-36b66f2a {
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --overflow: hidden;
+    --overlay-opacity: 1;
+    --padding-top: 30px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-36b66f2a:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-36b66f2a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VIN-08-PII-2-scaled-1-1.jpg");
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-36b66f2a::before, .elementor-27098 .elementor-element.elementor-element-36b66f2a > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-36b66f2a > .e-con-inner > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-36b66f2a > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-36b66f2a > .e-con-inner > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-36b66f2a > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: transparent;
+    --background-overlay: '';
+    background-image: linear-gradient(180deg, #F3F4F8 9%, #02050F00 52%);
+}
+
+.elementor-27098 .elementor-element.elementor-element-85d1d9c {
+    --spacer-size: 7px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2151816c > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2151816c {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2151816c .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6b9724ce {
+    --spacer-size: 5px;
+}
+
+.elementor-widget-gallery .elementor-gallery-item__title {
+    font-family: var( --e-global-typography-primary-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight );
+}
+
+.elementor-widget-gallery .elementor-gallery-item__description {
+    font-family: var( --e-global-typography-text-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight );
+}
+
+.elementor-widget-gallery {
+    --galleries-title-color-normal: var( --e-global-color-primary );
+    --galleries-title-color-hover: var( --e-global-color-secondary );
+    --galleries-pointer-bg-color-hover: var( --e-global-color-accent );
+    --gallery-title-color-active: var( --e-global-color-secondary );
+    --galleries-pointer-bg-color-active: var( --e-global-color-accent );
+}
+
+.elementor-widget-gallery .elementor-gallery-title {
+    font-family: var( --e-global-typography-primary-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight );
+}
+
+.elementor-27098 .elementor-element.elementor-element-71971d76 {
+    --image-border-radius: 11px;
+    --image-transition-duration: 800ms;
+    --content-text-align: center;
+    --content-padding: 20px;
+    --content-transition-duration: 800ms;
+    --content-transition-delay: 800ms;
+}
+
+.elementor-27098 .elementor-element.elementor-element-ec51478 {
+    --display: flex;
+}
+
+.elementor-27098 .elementor-element.elementor-element-18fa97e6 {
+    --spacer-size: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-70f169bb > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-70f169bb {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-70f169bb .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3ea5ae3f {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-23265eb1 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2cbfcb2e {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-27d33089 .elementor-button {
+    background-color: transparent;
+    font-family: "Lora", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: normal;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(181deg, #D5B385 0%, #C7A57A 100%);
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-27d33089 .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-27d33089 .elementor-button:focus {
+    background-color: #D5AF6F;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-27d33089 .elementor-button:hover svg, .elementor-27098 .elementor-element.elementor-element-27d33089 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2aafc201 {
+    --spacer-size: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3e901eb8 {
+    --spacer-size: 107px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5d86d6ad {
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5d86d6ad:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-5d86d6ad > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #4C565F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3f3bd0ce {
+    --display: flex;
+    --overlay-opacity: 0.24;
+    border-style: none;
+    --border-style: none;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 8px -22px rgba(0, 0, 0, 0.35);
+    --padding-top: 35px;
+    --padding-bottom: 35px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3f3bd0ce:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-3f3bd0ce > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VIN-08-PII-2-scaled-1-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3f3bd0ce::before, .elementor-27098 .elementor-element.elementor-element-3f3bd0ce > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-3f3bd0ce > .e-con-inner > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-3f3bd0ce > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-3f3bd0ce > .e-con-inner > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-3f3bd0ce > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: #FFFFFF;
+    --background-overlay: '';
+}
+
+.elementor-27098 .elementor-element.elementor-element-412344d5 {
+    --spacer-size: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-70135d59 > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-70135d59 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-70135d59 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-68f2fe53 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-68f2fe53 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-68f2fe53 .elementor-heading-title {
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #313A3C;
+}
+
+.elementor-27098 .elementor-element.elementor-element-376dcce5 .elementor-button {
+    background-color: transparent;
+    font-family: "Lora", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: normal;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(181deg, #D5B385 0%, #C7A57A 100%);
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-376dcce5 .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-376dcce5 .elementor-button:focus {
+    background-color: #D5AF6F;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-376dcce5 .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-27098 .elementor-element.elementor-element-376dcce5 .elementor-button:hover svg, .elementor-27098 .elementor-element.elementor-element-376dcce5 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4e24e76a {
+    --display: flex;
+    --border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4e24e76a.e-con {
+    --align-self: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-20bad65b {
+    --display: flex;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #FFFFFF;
+    --border-color: #FFFFFF;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 3px 3px 2px -2px rgba(0,0,0,0.5);
+    --margin-top: 10px;
+    --margin-bottom: 10px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 15px;
+    --padding-bottom: 15px;
+    --padding-left: 15px;
+    --padding-right: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-20bad65b:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-20bad65b > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/bg-bank-1-1-3.webp");
+    background-position: bottom right;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-144f3ed0 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-144f3ed0 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.2em;
+    letter-spacing: 1.2px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31aa51ba {
+    z-index: 1;
+    text-align: right;
+}
+
+.elementor-27098 .elementor-element.elementor-element-31aa51ba img {
+    width: 24%;
+    max-width: 50%;
+}
+
+.elementor-27098 .elementor-element.elementor-element-69582074 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-69582074 img {
+    width: 11%;
+    max-width: 50%;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2c1e6b8f {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2c1e6b8f .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.2em;
+    letter-spacing: 1.2px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2d853589 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2d853589 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    letter-spacing: 1.1px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-62d6d7dd > .elementor-widget-container {
+    margin: -15px 0px -9px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-62d6d7dd {
+    z-index: 1;
+}
+
+.elementor-27098 .elementor-element.elementor-element-62d6d7dd .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-27098 .elementor-element.elementor-element-62d6d7dd .copy-content {
+    font-family: "Roboto", Sans-serif;
+    font-size: 1px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-62d6d7dd .head-title {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 1px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-62d6d7dd a.elementor-button, .elementor-27098 .elementor-element.elementor-element-62d6d7dd .elementor-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #A2A5A7;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-62d6d7dd a.elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-62d6d7dd .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-62d6d7dd a.elementor-button:focus, .elementor-27098 .elementor-element.elementor-element-62d6d7dd .elementor-button:focus {
+    background-color: #D9D9D9;
+}
+
+.elementor-27098 .elementor-element.elementor-element-62d6d7dd .elementor-button {
+    box-shadow: 0px 4px 4px -3px rgba(0,0,0,0.5);
+}
+
+.elementor-27098 .elementor-element.elementor-element-55e273c2 {
+    --display: flex;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #FFFFFF;
+    --border-color: #FFFFFF;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 3px 3px 2px -2px rgba(0,0,0,0.5);
+    --margin-top: 10px;
+    --margin-bottom: 10px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 15px;
+    --padding-bottom: 15px;
+    --padding-left: 15px;
+    --padding-right: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-55e273c2:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-55e273c2 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/bg-bank-1-1-3.webp");
+    background-position: bottom right;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-45dfbe76 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-45dfbe76 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.2em;
+    letter-spacing: 1.2px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4ac2548c {
+    z-index: 1;
+    text-align: right;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4ac2548c img {
+    width: 24%;
+    max-width: 50%;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2522fd {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2522fd img {
+    width: 11%;
+    max-width: 50%;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6326d2b9 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6326d2b9 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.2em;
+    letter-spacing: 1.2px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2598c1fa {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2598c1fa .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    letter-spacing: 1.1px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-349b7d33 > .elementor-widget-container {
+    margin: -15px 0px -9px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-349b7d33 {
+    z-index: 1;
+}
+
+.elementor-27098 .elementor-element.elementor-element-349b7d33 .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-27098 .elementor-element.elementor-element-349b7d33 .copy-content {
+    font-family: "Roboto", Sans-serif;
+    font-size: 1px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-349b7d33 .head-title {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 1px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-349b7d33 a.elementor-button, .elementor-27098 .elementor-element.elementor-element-349b7d33 .elementor-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #A2A5A7;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-349b7d33 a.elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-349b7d33 .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-349b7d33 a.elementor-button:focus, .elementor-27098 .elementor-element.elementor-element-349b7d33 .elementor-button:focus {
+    background-color: #D9D9D9;
+}
+
+.elementor-27098 .elementor-element.elementor-element-349b7d33 .elementor-button {
+    box-shadow: 0px 4px 4px -3px rgba(0,0,0,0.5);
+}
+
+.elementor-27098 .elementor-element.elementor-element-647ef21 {
+    --display: flex;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #FFFFFF;
+    --border-color: #FFFFFF;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 3px 3px 2px -2px rgba(0,0,0,0.5);
+    --margin-top: 10px;
+    --margin-bottom: 10px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 15px;
+    --padding-bottom: 15px;
+    --padding-left: 15px;
+    --padding-right: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-647ef21:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-647ef21 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/bg-bank-1-1-3.webp");
+    background-position: bottom right;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3e121750 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3e121750 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.2em;
+    letter-spacing: 1.2px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-564de62b {
+    z-index: 1;
+    text-align: right;
+}
+
+.elementor-27098 .elementor-element.elementor-element-564de62b img {
+    width: 24%;
+    max-width: 50%;
+}
+
+.elementor-27098 .elementor-element.elementor-element-102a93f3 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-102a93f3 img {
+    width: 11%;
+    max-width: 50%;
+}
+
+.elementor-27098 .elementor-element.elementor-element-557a114 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-557a114 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.2em;
+    letter-spacing: 1.2px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b8e32ea {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b8e32ea .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    letter-spacing: 1.1px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b97e6a4 > .elementor-widget-container {
+    margin: -15px 0px -9px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b97e6a4 {
+    z-index: 1;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b97e6a4 .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b97e6a4 .copy-content {
+    font-family: "Roboto", Sans-serif;
+    font-size: 1px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b97e6a4 .head-title {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 1px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b97e6a4 a.elementor-button, .elementor-27098 .elementor-element.elementor-element-2b97e6a4 .elementor-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #A2A5A7;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b97e6a4 a.elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-2b97e6a4 .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-2b97e6a4 a.elementor-button:focus, .elementor-27098 .elementor-element.elementor-element-2b97e6a4 .elementor-button:focus {
+    background-color: #D9D9D9;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2b97e6a4 .elementor-button {
+    box-shadow: 0px 4px 4px -3px rgba(0,0,0,0.5);
+}
+
+.elementor-27098 .elementor-element.elementor-element-2817ce52 {
+    --display: flex;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #FFFFFF;
+    --border-color: #FFFFFF;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 3px 3px 2px -2px rgba(0,0,0,0.5);
+    --margin-top: 10px;
+    --margin-bottom: 10px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 15px;
+    --padding-bottom: 15px;
+    --padding-left: 15px;
+    --padding-right: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-2817ce52:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-2817ce52 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/bg-bank-1-1-3.webp");
+    background-position: bottom right;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-713fe813 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-713fe813 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.2em;
+    letter-spacing: 1.2px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6d4158f1 {
+    z-index: 1;
+    text-align: right;
+}
+
+.elementor-27098 .elementor-element.elementor-element-6d4158f1 img {
+    width: 24%;
+    max-width: 50%;
+}
+
+.elementor-27098 .elementor-element.elementor-element-64ab2343 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-64ab2343 img {
+    width: 11%;
+    max-width: 50%;
+}
+
+.elementor-27098 .elementor-element.elementor-element-14ed7210 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-14ed7210 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 1.2em;
+    letter-spacing: 1.2px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-a4e03c3 {
+    z-index: 1;
+    text-align: left;
+}
+
+.elementor-27098 .elementor-element.elementor-element-a4e03c3 .elementor-heading-title {
+    font-family: "Jura", Sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    letter-spacing: 1.1px;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4451b4f > .elementor-widget-container {
+    margin: -15px 0px -9px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4451b4f {
+    z-index: 1;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4451b4f .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4451b4f .copy-content {
+    font-family: "Roboto", Sans-serif;
+    font-size: 1px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4451b4f .head-title {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 1px;
+    font-weight: 500;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4451b4f a.elementor-button, .elementor-27098 .elementor-element.elementor-element-4451b4f .elementor-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #A2A5A7;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4451b4f a.elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-4451b4f .elementor-button:hover, .elementor-27098 .elementor-element.elementor-element-4451b4f a.elementor-button:focus, .elementor-27098 .elementor-element.elementor-element-4451b4f .elementor-button:focus {
+    background-color: #D9D9D9;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4451b4f .elementor-button {
+    box-shadow: 0px 4px 4px -3px rgba(0,0,0,0.5);
+}
+
+.elementor-27098 .elementor-element.elementor-element-154056ac {
+    --display: flex;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    --border-top-width: 2px;
+    --border-right-width: 2px;
+    --border-bottom-width: 2px;
+    --border-left-width: 2px;
+    border-color: #FFFFFF;
+    --border-color: #FFFFFF;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 3px 3px 2px -2px rgba(0,0,0,0.5);
+    --margin-top: 10px;
+    --margin-bottom: 10px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 15px;
+    --padding-bottom: 15px;
+    --padding-left: 15px;
+    --padding-right: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-154056ac:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-154056ac > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/bg-bank-1-1-3.webp");
+    background-position: bottom right;
+    background-size: cover;
+}
+
+.elementor-widget-icon.elementor-view-stacked .elementor-icon {
+    background-color: var( --e-global-color-primary );
+}
+
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon {
+    color: var( --e-global-color-primary );
+    border-color: var( --e-global-color-primary );
+}
+
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg {
+    fill: var( --e-global-color-primary );
+}
+
+.elementor-27098 .elementor-element.elementor-element-37ea6503 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-37ea6503.elementor-view-stacked .elementor-icon {
+    background-color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-37ea6503.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-37ea6503.elementor-view-default .elementor-icon {
+    color: #54595F;
+    border-color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-37ea6503.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-37ea6503.elementor-view-default .elementor-icon svg {
+    fill: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-37ea6503 .elementor-icon {
+    font-size: 21px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-37ea6503 .elementor-icon svg {
+    height: 21px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-76da0e9b > .elementor-widget-container {
+    margin: 0px 0px 10px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-76da0e9b {
+    z-index: 1;
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-76da0e9b .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #54595F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3cabd782 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3cabd782 {
+    text-align: center;
+    font-family: "Jura", Sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.elementor-27098 .elementor-element.elementor-element-67e50b05 {
+    --spacer-size: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-9ada5b7 {
+    --display: flex;
+    --overlay-opacity: 0.21;
+    border-style: none;
+    --border-style: none;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 8px -22px rgba(0, 0, 0, 0.35);
+    --padding-top: 35px;
+    --padding-bottom: 35px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-9ada5b7:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-9ada5b7 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #F4F5F08F;
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VIN-08-PII-2-1-scaled-1-1.jpg");
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-9ada5b7::before, .elementor-27098 .elementor-element.elementor-element-9ada5b7 > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-9ada5b7 > .e-con-inner > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-9ada5b7 > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-9ada5b7 > .e-con-inner > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-9ada5b7 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+    background-color: #FFFFFF;
+    --background-overlay: '';
+}
+
+.elementor-27098 .elementor-element.elementor-element-2f3985e4 {
+    --spacer-size: 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-573005e5 > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-573005e5 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-573005e5 .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #394446;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5c89e6e8 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5c89e6e8 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5c89e6e8 .elementor-heading-title {
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #313A3C;
+}
+
+.elementor-widget-weddingpress-kit2 .cui-wrapper .cui-wrap-form .cui-container-form input[type=button].cui-form-btn, .cui-wrapper .cui-wrap-form .cui-container-form input[type=submit] {
+    font-family: var( --e-global-typography-accent-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight );
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper {
+    background-color: #FFFFFF69;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form input[type=button].cui-form-btn, .elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form input[type="submit"] {
+    background-color: transparent;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(180deg, #D0AE81 0%, #B4946A 100%);
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper ul.cui-container-comments {
+    background-color: #FFFFFF00;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 > .elementor-widget-container {
+    background-color: #FFFFFF9E;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759.elementor-element {
+    --align-self: stretch;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-link a.cui-link, .elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper.cui-wrap-form .cui-container-form input[type=button].cui-form-btn, .cui-wrapper .cui-wrap-form .cui-container-form input[type=submit] {
+    font-family: "Arial", Sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-link a.cui-link {
+    color: #494848;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper.cui-border {
+    border-style: none;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form input[type=button].cui-form-btn, .cui-wrapper .cui-wrap-form .cui-container-form input[type=submit] {
+    font-family: "Arial", Sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    border-radius: 8px 8px 8px 8px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form p.form-submit {
+    text-align: center !important;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form input[type=text], .elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form textarea.cui-textarea, .elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form select.cui-select {
+    background: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form input[type=text], .elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form textarea.cui-textarea {
+    color: #424242;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form input#author, .cui-wrapper .cui-wrap-form .cui-container-form input#email, .cui-wrapper .cui-wrap-form .cui-container-form input#url, .elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form textarea.cui-textarea, .elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-wrap-form .cui-container-form select.cui-select {
+    border-radius: 8px 8px 8px 8px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-container-comments li:nth-child(even) {
+    background: #FFFFFF00;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-container-comments li:nth-child(odd) {
+    background: #FFFFFF00;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-box {
+    max-height: 40vh;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper ul.cui-container-comments li.cui-item-comment .cui-comment-content .cui-comment-info a.cui-commenter-name {
+    color: #4C565F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-comment-time {
+    color: #4C565F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper ul.cui-container-comments li.cui-item-comment .cui-comment-content .cui-comment-text p {
+    color: #4C565F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper ul.cui-container-comments li.cui-item-comment .cui-comment-avatar img {
+    max-width: 28px;
+    max-height: 28px;
+    opacity: 1;
+    height: 100px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper ul.cui-container-comments li.cui-item-comment .cui-comment-content .cui-comment-actions a {
+    color: #4C565F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrap-form {
+    border-style: none;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-holder a.jp-previous.jp-disabled, .cui-wrapper .cui-holder a.jp-previous.jp-disabled:hover {
+    color: #494848;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-holder a.jp-next {
+    color: #494848;
+}
+
+.elementor-27098 .elementor-element.elementor-element-1288b759 .cui-wrapper .cui-holder a, .cui-wrapper .cui-holder a:link, .cui-wrapper .cui-holder a:visited {
+    color: #494848;
+}
+
+.elementor-27098 .elementor-element.elementor-element-39389b49 {
+    --spacer-size: 20px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-35b305b6 {
+    --display: flex;
+    --min-height: 100vh;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+    --padding-top: 30px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-35b305b6:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-35b305b6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url("https://inv.wekita.id/wp-content/uploads/2025/11/VINTAGE08_V2.1_ENDBG_PII-1.jpg");
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3a8c2dd1 {
+    --spacer-size: 21px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-735fcfa0 > .elementor-widget-container {
+    padding: 0px 0px 10px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-735fcfa0 img {
+    border-style: solid;
+    border-width: 2.5px 2.5px 2.5px 2.5px;
+    border-color: #FFFFFF;
+    border-radius: 500px 500px 0px 0px;
+    box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.5);
+}
+
+.elementor-27098 .elementor-element.elementor-element-4ffa4d22 > .elementor-widget-container {
+    padding: 0px 40px 0px 40px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-4ffa4d22 {
+    text-align: center;
+    font-family: "Lora", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #383838;
+}
+
+.elementor-27098 .elementor-element.elementor-element-7af7626c > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-7af7626c {
+    text-align: center;
+    font-family: "Sura", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #383838;
+}
+
+.elementor-27098 .elementor-element.elementor-element-32ba23a5 {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-32ba23a5 .elementor-heading-title {
+    font-family: "snellbt", Sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #C89966;
+}
+
+.elementor-27098 .elementor-element.elementor-element-5a04bf1d {
+    --spacer-size: 184px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3a97f434 {
+    --display: flex;
+}
+
+.elementor-27098 .elementor-element.elementor-element-3a97f434:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-3a97f434 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #4C565F;
+}
+
+.elementor-27098 .elementor-element.elementor-element-87d6100 > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 39px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-87d6100 {
+    text-align: center;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-23bdd6a {
+    --grid-template-columns: repeat(0, auto);
+    z-index: 5;
+    --icon-size: 33px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-23bdd6a .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-27098 .elementor-element.elementor-element-23bdd6a > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-23bdd6a .elementor-social-icon {
+    background-color: #02010100;
+}
+
+.elementor-27098 .elementor-element.elementor-element-23bdd6a .elementor-social-icon i {
+    color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-23bdd6a .elementor-social-icon svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-23bdd6a .elementor-social-icon:hover {
+    background-color: #B6967D00;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-element {
+    --align-self: flex-end;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e .elementor-icon-wrapper {
+    text-align: right;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-stacked .elementor-icon {
+    background-color: #AF8042;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-default .elementor-icon {
+    color: #AF8042;
+    border-color: #AF8042;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-framed .elementor-icon, .elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-default .elementor-icon svg {
+    fill: #AF8042;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-stacked .elementor-icon:hover {
+    background-color: #FFFFFF;
+    color: #AF8042;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-framed .elementor-icon:hover, .elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-default .elementor-icon:hover {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-framed .elementor-icon:hover, .elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-default .elementor-icon:hover svg {
+    fill: #FFFFFF;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-framed .elementor-icon:hover {
+    background-color: #AF8042;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e.elementor-view-stacked .elementor-icon:hover svg {
+    fill: #AF8042;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e .elementor-icon {
+    font-size: 30px;
+    padding: 2px;
+}
+
+.elementor-27098 .elementor-element.elementor-element-81f274e .elementor-icon i, .elementor-27098 .elementor-element.elementor-element-81f274e .elementor-icon svg {
+    transform: rotate(0deg);
+}
+
+.elementor-27098 .elementor-element.elementor-element-6ae3d219 {
+    z-index: 5;
+}
+
+@media(min-width: 768px) {
+    .elementor-27098 .elementor-element.elementor-element-2d3a2870 {
+        --width:500px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5e85dd36 {
+        --width: 500px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-21d30f8b {
+        --width: 350px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3883fcaa {
+        --width: 90%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3a9129f {
+        --width: 90%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-8daf97c {
+        --width: 90%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4e24e76a {
+        --width: 320px;
+    }
+}
+
+@media(max-width: 1024px) and (min-width:768px) {
+    .elementor-27098 .elementor-element.elementor-element-2d3a2870 {
+        --width:600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-498238fc {
+        --width: 60%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5e85dd36 {
+        --width: 100%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-38007537 {
+        --width: 600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-21d30f8b {
+        --width: 350px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-645e4468 {
+        --width: 600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6df9c990 {
+        --width: 600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3c58b15d {
+        --width: 600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-592b829 {
+        --width: 600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-36b66f2a {
+        --width: 600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5d86d6ad {
+        --width: 600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-35b305b6 {
+        --width: 600px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3a97f434 {
+        --width: 600px;
+    }
+}
+
+@media(max-width: 1024px) {
+    .elementor-27098 .elementor-element.elementor-element-1ec98e1e {
+        --flex-direction:column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --flex-wrap-mobile: wrap;
+        --justify-content: flex-end;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2d3a2870.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3993860b .elementor-heading-title {
+        font-size: 18px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6b65c00d .elementor-heading-title {
+        font-size: 16px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-380f41e3 .elementor-heading-title {
+        font-size: 34px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-38007537 {
+        --min-height: 100vh;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-38007537.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-645e4468.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31e00b07 {
+        --border-radius: 300px 300px 15px 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1468aa24 {
+        --spacer-size: 60px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6df9c990 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6df9c990.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3c58b15d {
+        --padding-top: 25px;
+        --padding-bottom: 25px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3c58b15d.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3883fcaa {
+        --gap: 15px 15px;
+        --row-gap: 15px;
+        --column-gap: 15px;
+        --border-radius: 100px 100px 100px 100px;
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 30px;
+        --padding-right: 30px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3883fcaa:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-3883fcaa > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-position: center center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7b8ddf42 {
+        --spacer-size: 51px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-476218b0 .elementor-heading-title {
+        font-size: 18px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1aced3f2 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-796bbacc {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2d510a2a {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2482fe3e .elementor-button {
+        font-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3a9129f {
+        --gap: 15px 15px;
+        --row-gap: 15px;
+        --column-gap: 15px;
+        --border-radius: 100px 100px 100px 100px;
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 30px;
+        --padding-right: 30px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3a9129f:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-3a9129f > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-position: center center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2c0ca281 .elementor-heading-title {
+        font-size: 18px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-53ec10e4 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-c5a830f {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7ccaa985 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-54a86d8e .elementor-button {
+        font-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-12a2ab9c {
+        --spacer-size: 133px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-8daf97c {
+        --gap: 15px 15px;
+        --row-gap: 15px;
+        --column-gap: 15px;
+        --border-radius: 100px 100px 100px 100px;
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 30px;
+        --padding-right: 30px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-8daf97c:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-8daf97c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-position: center center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-75bf06ab .elementor-heading-title {
+        font-size: 18px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-452429ce {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-387b1da4 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4dea147b {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6c1c5c19 .elementor-button {
+        font-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5b67f36 {
+        --spacer-size: 133px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-592b829.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-36b66f2a.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-27d33089 .elementor-button {
+        font-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5d86d6ad.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-376dcce5 .elementor-button {
+        font-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-20bad65b {
+        --gap: -1px -1px;
+        --row-gap: -1px;
+        --column-gap: -1px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-144f3ed0 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-144f3ed0 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31aa51ba > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31aa51ba {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31aa51ba img {
+        width: 30%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-69582074 > .elementor-widget-container {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-69582074 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2c1e6b8f > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2c1e6b8f {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2d853589 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-62d6d7dd a.elementor-button, .elementor-27098 .elementor-element.elementor-element-62d6d7dd .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-55e273c2 {
+        --gap: -1px -1px;
+        --row-gap: -1px;
+        --column-gap: -1px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-45dfbe76 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-45dfbe76 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4ac2548c > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4ac2548c {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4ac2548c img {
+        width: 30%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2522fd > .elementor-widget-container {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2522fd {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6326d2b9 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6326d2b9 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2598c1fa {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-349b7d33 a.elementor-button, .elementor-27098 .elementor-element.elementor-element-349b7d33 .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-647ef21 {
+        --gap: -1px -1px;
+        --row-gap: -1px;
+        --column-gap: -1px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3e121750 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3e121750 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-564de62b > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-564de62b {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-564de62b img {
+        width: 30%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-102a93f3 > .elementor-widget-container {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-102a93f3 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-557a114 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-557a114 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b8e32ea {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b97e6a4 a.elementor-button, .elementor-27098 .elementor-element.elementor-element-2b97e6a4 .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2817ce52 {
+        --gap: -1px -1px;
+        --row-gap: -1px;
+        --column-gap: -1px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-713fe813 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-713fe813 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6d4158f1 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6d4158f1 {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6d4158f1 img {
+        width: 30%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-64ab2343 > .elementor-widget-container {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-64ab2343 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-14ed7210 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-14ed7210 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-a4e03c3 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4451b4f a.elementor-button, .elementor-27098 .elementor-element.elementor-element-4451b4f .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-154056ac {
+        --gap: -1px -1px;
+        --row-gap: -1px;
+        --column-gap: -1px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-76da0e9b .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-35b305b6.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3a97f434.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-23bdd6a {
+        --icon-size: 21px;
+    }
+}
+
+@media(max-width: 767px) {
+    .elementor-27098 .elementor-element.elementor-element-2d3a2870 {
+        --overlay-opacity:0.67;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6f917b81 .elementor-heading-title {
+        font-size: 11px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-396b699f .elementor-heading-title {
+        font-size: 11px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3993860b > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3993860b .elementor-heading-title {
+        font-size: 16px;
+        letter-spacing: 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-407b000e .elementor-button {
+        font-size: 13px;
+        padding: 14px 25px 14px 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5e85dd36 {
+        --justify-content: center;
+        --align-items: center;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );
+        --z-index: 2;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5e85dd36.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-38007537 {
+        --min-height: 93vh;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-38007537.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-21d30f8b {
+        --width: 320px;
+        --border-radius: 300px 300px 300px 300px;
+        --padding-top: 5px;
+        --padding-bottom: 5px;
+        --padding-left: 5px;
+        --padding-right: 5px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-21d30f8b.e-con {
+        --align-self: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2eddd54d .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-cbc9806 .elementor-heading-title {
+        font-size: 32px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1bf5f061 .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-65027be4 .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-645e4468 {
+        --padding-top: 30px;
+        --padding-bottom: 30px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31e00b07 {
+        --border-radius: 500px 500px 015px 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1468aa24 {
+        --spacer-size: 63px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-261a0d51 {
+        font-size: 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-651d0c6 .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-58300810 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-443665b4 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-52401d6f {
+        --spacer-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6df9c990::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .e-con-inner > .elementor-background-video-container::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .e-con-inner > .elementor-background-slideshow::before, .elementor-27098 .elementor-element.elementor-element-6df9c990 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+        background-size: cover;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6df9c990 {
+        --overlay-opacity: 1;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1bc2a7cf {
+        --spacer-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6ba7a5cf .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3d592eb4 > .elementor-widget-container {
+        padding: 00px 30px 0px 30px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3d592eb4 .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-42cb4202 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-42cb4202 img {
+        max-width: 100%;
+        border-width: 2.5px 2.5px 2.5px 2.5px;
+        border-radius: 500px 500px 500px 500px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2dd0c0de .elementor-heading-title {
+        font-size: 24px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-24b50bbb {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4d6a5921 .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7b6f1a45 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7b6f1a45 img {
+        max-width: 100%;
+        border-width: 2.5px 2.5px 2.5px 2.5px;
+        border-radius: 500px 500px 500px 500px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-77f48c99 .elementor-heading-title {
+        font-size: 24px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-75ccd915 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5e5204fc {
+        --spacer-size: 93px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3c58b15d {
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 15px;
+        --padding-bottom: 15px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-39cb2225 {
+        --spacer-size: 35px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-37808c9e .elementor-heading-title {
+        font-size: 43px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-756961ee > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-756961ee {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31ecce25 > .elementor-widget-container {
+        margin: 0px 0px 20px 0px;
+        padding: 0px 8px 0px 8px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31ecce25 .wpkoi-elements-countdown-digits {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31ecce25 .wpkoi-elements-countdown-label {
+        font-size: 11px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3883fcaa {
+        --border-radius: 200px 200px 200px 200px;
+        --padding-top: 70px;
+        --padding-bottom: 70px;
+        --padding-left: 10px;
+        --padding-right: 010px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7b8ddf42 {
+        --spacer-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-476218b0 .elementor-heading-title {
+        font-size: 26px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1aced3f2 > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1aced3f2 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-796bbacc > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-796bbacc {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2733c1b0 {
+        --divider-icon-size: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2d510a2a > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2d510a2a {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2482fe3e .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-589e6ed6 {
+        --spacer-size: 80px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3a9129f {
+        --border-radius: 200px 200px 200px 200px;
+        --padding-top: 70px;
+        --padding-bottom: 70px;
+        --padding-left: 10px;
+        --padding-right: 010px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-272359f7 {
+        --spacer-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2c0ca281 .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-53ec10e4 > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-53ec10e4 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-c5a830f > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-c5a830f {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-34f81650 {
+        --divider-icon-size: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7ccaa985 > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7ccaa985 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-54a86d8e .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-12a2ab9c {
+        --spacer-size: 80px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-8daf97c {
+        --border-radius: 200px 200px 200px 200px;
+        --padding-top: 70px;
+        --padding-bottom: 70px;
+        --padding-left: 10px;
+        --padding-right: 010px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6beae473 {
+        --spacer-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-75bf06ab .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-452429ce > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-452429ce {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-387b1da4 > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-387b1da4 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-764de29f {
+        --divider-icon-size: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4dea147b > .elementor-widget-container {
+        padding: 0px 50px 0px 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4dea147b {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6c1c5c19 .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5b67f36 {
+        --spacer-size: 80px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3f6ac6ec {
+        font-size: 50px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-263089b6 .elementor-heading-title {
+        font-size: 26px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1844e0c9 {
+        font-size: 16px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-dada720 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5dce35e9 {
+        font-size: 16px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3dd80f26 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-beefbb8 {
+        font-size: 16px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-668c5cbd {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4197be9b {
+        font-size: 16px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-53592bab {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-434aa0a6 {
+        font-size: 16px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-73620500 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-29d9442b {
+        --spacer-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-85d1d9c {
+        --spacer-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2151816c .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-18fa97e6 {
+        --spacer-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-70f169bb .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3ea5ae3f {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-23265eb1 {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2cbfcb2e {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-27d33089 .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2aafc201 {
+        --spacer-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3e901eb8 {
+        --spacer-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5d86d6ad {
+        --padding-top: 40px;
+        --padding-bottom: 40px;
+        --padding-left: 15px;
+        --padding-right: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3f3bd0ce:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-3f3bd0ce > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-position: center center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3f3bd0ce {
+        --margin-top: 15px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 30px;
+        --padding-bottom: 30px;
+        --padding-left: 15px;
+        --padding-right: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-412344d5 {
+        --spacer-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-70135d59 .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-68f2fe53 > .elementor-widget-container {
+        padding: 0px 12px 0px 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-68f2fe53 .elementor-heading-title {
+        font-size: 13px;
+        line-height: 1.4em;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-376dcce5 .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-20bad65b {
+        --gap: 3px 3px;
+        --row-gap: 3px;
+        --column-gap: 3px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-144f3ed0 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-144f3ed0 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-144f3ed0 .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31aa51ba > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31aa51ba {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-31aa51ba img {
+        width: 26%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-69582074 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-69582074 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-69582074 img {
+        width: 9%;
+        max-width: 78%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2c1e6b8f > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2c1e6b8f {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2c1e6b8f .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2d853589 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2d853589 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2d853589 .elementor-heading-title {
+        line-height: 1.1em;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-62d6d7dd > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-62d6d7dd .copy-content {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-62d6d7dd .head-title {
+        font-size: 1px;
+        line-height: 0.1em;
+        letter-spacing: -1.7px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-62d6d7dd img {
+        border-radius: 2px 2px 2px 2px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-62d6d7dd a.elementor-button, .elementor-27098 .elementor-element.elementor-element-62d6d7dd .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-55e273c2 {
+        --gap: 3px 3px;
+        --row-gap: 3px;
+        --column-gap: 3px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-45dfbe76 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-45dfbe76 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-45dfbe76 .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4ac2548c > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4ac2548c {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4ac2548c img {
+        width: 26%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2522fd > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2522fd {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2522fd img {
+        width: 9%;
+        max-width: 78%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6326d2b9 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6326d2b9 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6326d2b9 .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2598c1fa > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2598c1fa {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2598c1fa .elementor-heading-title {
+        line-height: 1.1em;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-349b7d33 > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-349b7d33 .copy-content {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-349b7d33 .head-title {
+        font-size: 1px;
+        line-height: 0.1em;
+        letter-spacing: -1.7px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-349b7d33 img {
+        border-radius: 2px 2px 2px 2px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-349b7d33 a.elementor-button, .elementor-27098 .elementor-element.elementor-element-349b7d33 .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-647ef21 {
+        --gap: 3px 3px;
+        --row-gap: 3px;
+        --column-gap: 3px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3e121750 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3e121750 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3e121750 .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-564de62b > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-564de62b {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-564de62b img {
+        width: 26%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-102a93f3 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-102a93f3 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-102a93f3 img {
+        width: 9%;
+        max-width: 78%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-557a114 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-557a114 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-557a114 .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b8e32ea > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b8e32ea {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b8e32ea .elementor-heading-title {
+        line-height: 1.1em;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b97e6a4 > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b97e6a4 .copy-content {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b97e6a4 .head-title {
+        font-size: 1px;
+        line-height: 0.1em;
+        letter-spacing: -1.7px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b97e6a4 img {
+        border-radius: 2px 2px 2px 2px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2b97e6a4 a.elementor-button, .elementor-27098 .elementor-element.elementor-element-2b97e6a4 .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2817ce52 {
+        --gap: 3px 3px;
+        --row-gap: 3px;
+        --column-gap: 3px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-713fe813 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-713fe813 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-713fe813 .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6d4158f1 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6d4158f1 {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-6d4158f1 img {
+        width: 26%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-64ab2343 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-64ab2343 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-64ab2343 img {
+        width: 9%;
+        max-width: 78%;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-14ed7210 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-14ed7210 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-14ed7210 .elementor-heading-title {
+        font-size: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-a4e03c3 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-a4e03c3 {
+        text-align: left;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-a4e03c3 .elementor-heading-title {
+        line-height: 1.1em;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4451b4f > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4451b4f .copy-content {
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4451b4f .head-title {
+        font-size: 1px;
+        line-height: 0.1em;
+        letter-spacing: -1.7px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4451b4f img {
+        border-radius: 2px 2px 2px 2px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4451b4f a.elementor-button, .elementor-27098 .elementor-element.elementor-element-4451b4f .elementor-button {
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-154056ac {
+        --gap: 3px 3px;
+        --row-gap: 3px;
+        --column-gap: 3px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-76da0e9b > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-76da0e9b {
+        text-align: center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-76da0e9b .elementor-heading-title {
+        font-size: 14px;
+        line-height: 1.1em;
+        letter-spacing: 1px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-9ada5b7:not(.elementor-motion-effects-element-type-background), .elementor-27098 .elementor-element.elementor-element-9ada5b7 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+        background-position: bottom center;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-9ada5b7 {
+        --margin-top: 15px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 30px;
+        --padding-bottom: 30px;
+        --padding-left: 15px;
+        --padding-right: 15px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-2f3985e4 {
+        --spacer-size: 10px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-573005e5 .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5c89e6e8 > .elementor-widget-container {
+        padding: 0px 12px 0px 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5c89e6e8 .elementor-heading-title {
+        font-size: 13px;
+        line-height: 1.4em;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-1288b759 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-35b305b6 {
+        --justify-content: flex-start;
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3a8c2dd1 {
+        --spacer-size: 44px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-735fcfa0 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-735fcfa0 img {
+        max-width: 100%;
+        border-width: 2.5px 2.5px 2.5px 2.5px;
+        border-radius: 500px 500px 500px 500px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4ffa4d22 > .elementor-widget-container {
+        padding: 0px 40px 0px 40px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-4ffa4d22 {
+        -moz-column-gap: 0px;
+        column-gap: 0px;
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7af7626c > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-7af7626c {
+        -moz-column-gap: 0px;
+        column-gap: 0px;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-32ba23a5 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-32ba23a5 .elementor-heading-title {
+        font-size: 30px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-5a04bf1d {
+        --spacer-size: 129px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-3a97f434 {
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+        --padding-right: 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-87d6100 > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 40px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-87d6100 {
+        text-align: center;
+        font-size: 11px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-23bdd6a > .elementor-widget-container {
+        margin: -2px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-23bdd6a {
+        --icon-size: 18px;
+        --grid-column-gap: 19px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-23bdd6a .elementor-social-icon {
+        --icon-padding: 0em;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-81f274e > .elementor-widget-container {
+        margin: 0px 0px 9px 0px;
+        padding: 0px 11px 0px 0px;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-81f274e .elementor-icon-wrapper {
+        text-align: right;
+    }
+
+    .elementor-27098 .elementor-element.elementor-element-81f274e .elementor-icon i, .elementor-27098 .elementor-element.elementor-element-81f274e .elementor-icon svg {
+        transform: rotate(0px);
+    }
+}
+
+/* Start custom CSS for container, class: .elementor-element-498238fc */
+/* Mengatur elemen untuk tetap berada di atas saat di-scroll */
+.elementor-27098 .elementor-element.elementor-element-498238fc {
+    position: sticky;
+    /* Membuat elemen menjadi sticky */
+    top: 0;
+    /* Menempel di bagian atas viewport */
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4e24e76a */
+#amplop {
+    display: none;
+}
+
+/* End custom CSS */
+/* Start custom CSS for weddingpress-kit2, class: .elementor-element-1288b759 */
+.cui-wrapper.cui-facebook ul.cui-container-comments li.cui-item-comment .cui-comment-content .cui-comment-info a.cui-commenter-name {
+    color: #4c565f !important;
+}
+
+/* End custom CSS */
+/* Start custom CSS */
+#h {
+    display: none;
+}
+
+.elementor-editor-active .elementor-gallery-item {
+    display: block !important;
+    opacity: 1 !important;
+    transform: scale(1) !important;
+    transition: none !important;
+}
+
+.profil1 img {
+    width: 170px;
+    height: 260px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    /* Ensures the image covers the entire space */
+    -o-object-position: top center;
+    object-position: top center;
+    /* Positions the image at the top center */
+    image-rendering: high-quality;
+    /* Maintains high resolution */
+    /* Preserves sharpness in WebKit browsers */
+    transform: scale(1.0);
+    /* Ensures correct scaling */
+    background-color: #e5edef;
+}
+
+.story img {
+    width: 450px;
+    /* Full width by default for responsiveness */
+    height: 45vh;
+    /* Maintains aspect ratio */
+    -o-object-fit: cover;
+    object-fit: cover;
+    /* Ensures the image covers the entire space */
+    -o-object-position: top center;
+    object-position: top center;
+    /* Positions the image at the top center */
+    image-rendering: high-quality;
+    /* Maintains high resolution */
+    /* Preserves sharpness in WebKit browsers */
+    transform: scale(1.0);
+    /* Ensures correct scaling */
+    background-color: #e5edef;
+}
+
+/* End custom CSS */
